@@ -1,0 +1,12 @@
+
+
+.icon-heading {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   background-color: #F55A5A;
+ }
+ 
+ .icon-heading i {
+   margin-right: 10px; /* Optional: Add some spacing between the icon and the heading */
+ }
